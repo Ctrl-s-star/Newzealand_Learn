@@ -1,0 +1,31 @@
+{% extends "base.html" %} {% block title %}Lessons | Welcome to Aotearoa{% endblock %} {% block content %}
+YOUR NEW ZEALAND LEARNING GUIDE
+Build confidence in your new home.
+Explore useful topics, learn everyday phrases, and practise speaking at your own pace.
+
+Search lessons 
+{{ query }}
+ Search
+Kia ora
+START EXPLORING
+{% if query %}Search results{% else %}Learning topics{% endif %}
+{{ lessons|length }} lesson{% if lessons|length != 1 %}s{% endif %}
+{% if lessons %}
+{% for item in lessons %}
+{{ item.category }} {{ item.level }}
+{{ item.title }}
+{{ item.description }}
+
+Open lesson →
+{% endfor %}
+{% else %}
+No lessons found
+Try another search term or browse all lessons.
+
+Show all lessons
+{% endif %}
+HOW TO USE THIS SITE
+Read it. Hear it. Repeat it.
+Open a lesson, listen to a phrase, then say it aloud. The speech feature uses your browser’s built-in voice support.
+
+{% endblock %}
