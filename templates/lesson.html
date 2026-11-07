@@ -1,0 +1,33 @@
+{% extends "base.html" %} {% block title %}{% if lesson %}{{ lesson.title }} | Welcome to Aotearoa{% else %}Lesson not found | Welcome to Aotearoa{% endif %}{% endblock %} {% block content %} {% if lesson %} ← All lessons
+{{ lesson.category }} · {{ lesson.level }}
+{{ lesson.title }}
+{{ lesson.description }}
+
+LESSON
+Read and learn
+🔊 Read aloud
+{{ lesson.content }}
+
+Learning tip
+{{ lesson.tip }}
+SPEAKING PRACTICE
+Listen and repeat
+{% for phrase in lesson.phrases %}
+{{ phrase.text }}
+
+{{ phrase.meaning }}
+
+🔊 Listen
+{% endfor %}
+Ready to practise?
+Listen to each sentence, then repeat it out loud.
+
+▶ Practise all phrases
+Speech playback depends on browser and device support.
+
+{% else %}
+Lesson not found
+This lesson may have moved or may not exist.
+
+Browse lessons
+{% endif %} {% endblock %}
