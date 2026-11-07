@@ -1,0 +1,100 @@
+[
+  {
+    "id": "greetings",
+    "title": "Greetings and introductions",
+    "category": "Everyday English",
+    "level": "Beginner",
+    "description": "Practise simple greetings and introducing yourself.",
+    "content": "A friendly greeting can help you feel more confident when meeting people in Aotearoa New Zealand. You can say hello, share your name, and ask how someone is.",
+    "phrases": [
+      { "text": "Kia ora. My name is Amina.", "meaning": "Hello. My name is Amina." },
+      { "text": "Nice to meet you.", "meaning": "A polite phrase when meeting someone." },
+      { "text": "Could you please say that again?", "meaning": "Ask someone to repeat something." }
+    ],
+    "tip": "Kia ora is a common Māori greeting used by many people in New Zealand."
+  },
+  {
+    "id": "te-reo-basics",
+    "title": "Te reo Māori: useful words",
+    "category": "Te reo Māori",
+    "level": "Beginner",
+    "description": "Learn a few everyday Māori words and greetings.",
+    "content": "Te reo Māori is an official language of Aotearoa New Zealand. Start by listening carefully and practising a few words respectfully. Māori pronunciation uses clear vowel sounds.",
+    "phrases": [
+      { "text": "Kia ora.", "meaning": "Hello, thank you, or a warm expression of regard, depending on context." },
+      { "text": "Aotearoa.", "meaning": "The Māori name commonly used for New Zealand." },
+      { "text": "Haere mai.", "meaning": "Welcome; come here." }
+    ],
+    "tip": "Try saying each phrase slowly. Māori vowels are generally pronounced clearly: a, e, i, o, u."
+  },
+  {
+    "id": "finding-a-home",
+    "title": "Looking for accommodation",
+    "category": "Housing",
+    "level": "Beginner",
+    "description": "Practise questions to ask when viewing a room or home.",
+    "content": "When searching for a place to live, clarify the rent, bond, bills, move-in date, and what is included. Read agreements carefully and ask questions if anything is unclear.",
+    "phrases": [
+      { "text": "How much is the rent each week?", "meaning": "Ask about the weekly rent." },
+      { "text": "Are any bills included?", "meaning": "Ask whether utilities are part of the rent." },
+      { "text": "When is the room available?", "meaning": "Ask about the move-in date." }
+    ],
+    "tip": "Housing rules and rental arrangements can vary. Check current information from official New Zealand sources before signing an agreement."
+  },
+  {
+    "id": "cafe-conversation",
+    "title": "Ordering at a café",
+    "category": "Hospitality",
+    "level": "Beginner",
+    "description": "Practise a simple café order and asking about options.",
+    "content": "Cafés are a useful place to practise everyday English. Speak at your own pace, and ask the staff to repeat or explain something if needed.",
+    "phrases": [
+      { "text": "Could I please have a flat white?", "meaning": "A polite way to order a coffee." },
+      { "text": "What non-dairy milk do you have?", "meaning": "Ask about alternatives to dairy milk." },
+      { "text": "Could I have the receipt, please?", "meaning": "Ask for proof of payment." }
+    ],
+    "tip": "You can replace “flat white” with the food or drink you would like."
+  },
+  {
+    "id": "community-and-culture",
+    "title": "Community, respect, and local customs",
+    "category": "Culture",
+    "level": "Beginner",
+    "description": "Explore respectful ways to take part in community life.",
+    "content": "Aotearoa New Zealand is home to people from many cultures. Customs differ between communities and situations. Listening, asking politely, and showing respect are good ways to learn.",
+    "phrases": [
+      { "text": "Could you tell me more about that?", "meaning": "Show interest and invite someone to explain." },
+      { "text": "Please let me know if I should do this differently.", "meaning": "Invite guidance in a considerate way." },
+      { "text": "Thank you for welcoming me.", "meaning": "Express appreciation for being included." }
+    ],
+    "tip": "When learning about Māori culture, use trusted Māori-led resources and follow local guidance."
+  },
+  {
+    "id": "daily-life",
+    "title": "Getting around and asking for help",
+    "category": "Lifestyle",
+    "level": "Beginner",
+    "description": "Practise asking for directions and everyday assistance.",
+    "content": "It is normal to ask for directions when you are somewhere new. Mention your destination and listen for landmarks, street names, or transport details.",
+    "phrases": [
+      { "text": "Excuse me, how do I get to the bus station?", "meaning": "Ask someone for directions." },
+      { "text": "Which bus should I take?", "meaning": "Ask about a bus route." },
+      { "text": "Could you show me on the map?", "meaning": "Ask someone to point out a location." }
+    ],
+    "tip": "Transport services and routes differ between places. Check your local transport provider for current details."
+  },
+  {
+    "id": "new-zealand-history",
+    "title": "A brief introduction to Aotearoa history",
+    "category": "History",
+    "level": "Beginner",
+    "description": "Begin learning about Māori history and the formation of modern New Zealand.",
+    "content": "Aotearoa New Zealand has a long Māori history. The Treaty of Waitangi (Te Tiriti o Waitangi) was signed in 1840 by representatives of the British Crown and many Māori rangatira. Its history, meanings, and effects are significant and have been understood differently by different people.",
+    "phrases": [
+      { "text": "I am learning about the history of Aotearoa.", "meaning": "Share that you are studying New Zealand history." },
+      { "text": "Where can I learn more about Te Tiriti o Waitangi?", "meaning": "Ask for a learning resource about the Treaty." },
+      { "text": "Thank you for sharing your perspective.", "meaning": "A respectful response to someone sharing their view." }
+    ],
+    "tip": "This is only a brief introduction, not a full account. Seek Māori perspectives and reputable historical resources for deeper learning."
+  }
+]
